@@ -1,0 +1,6 @@
+@WebApiRis_HostAddress = http://localhost:5194
+
+//GET {{WebApiRis_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
